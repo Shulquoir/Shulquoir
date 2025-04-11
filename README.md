@@ -1,8 +1,8 @@
 # Hi there. I'm Kostya👋
 
-🎓 I'm a student majoring in Computer Science.
-🌱 Currently learning **Machine Learning**, and honestly — I'm really into it!
-💻 I enjoy coding, experimenting with algorithms, and building cool things.
+🎓 I'm a student majoring in Computer Science.  
+🌱 Currently learning **Machine Learning**, and honestly — I'm really into it!  
+💻 I enjoy coding, experimenting with algorithms, and building cool things.  
 
 ## 🚀 What I'm working on
 
