@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there. I'm Kostya👋
+
+🎓 I'm a student majoring in Computer Science.
+🌱 Currently learning **Machine Learning**, and honestly — I'm really into it!
+💻 I enjoy coding, experimenting with algorithms, and building cool things.
+
+## 🚀 What I'm working on
+
+- Learning the basics of **Artificial Intelligence** and Neural Networks.
+- Working on university projects and assignments.
+- Exploring new technologies and programming approaches.
 
 <!--
 **Shulquoir/Shulquoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
